@@ -2,9 +2,9 @@
 # SmartInterviewAI_Frontend 🎓🤖  
 **Empower Your Interviews with AI-Driven Insights**
 
-![GitHub repo size](https://img.shields.io/github/repo-size/pranav8doshi/SmartInterviewAI_Frontend-)
-![GitHub last commit](https://img.shields.io/github/last-commit/pranav8doshi/SmartInterviewAI_Frontend-)
-![GitHub language count](https://img.shields.io/github/languages/count/pranav8doshi/SmartInterviewAI_Frontend-)
+![GitHub repo size](https://img.shields.io/github/repo-size/pranav8doshi/SmartInterviewAI_Frontend)
+![GitHub last commit](https://img.shields.io/github/last-commit/pranav8doshi/SmartInterviewAI_Frontend)
+![GitHub language count](https://img.shields.io/github/languages/count/pranav8doshi/SmartInterviewAI_Frontend)
 
 ---
 
@@ -49,12 +49,12 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pranav8doshi/SmartInterviewAI_Frontend-.git
+   git clone https://github.com/pranav8doshi/SmartInterviewAI_Frontend.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd SmartInterviewAI_Frontend-
+   cd SmartInterviewAI_Frontend
    ```
 
 3. Install dependencies:
@@ -102,12 +102,6 @@ npm test
 3. Commit your changes: `git commit -m 'Add awesome feature'`
 4. Push to the branch: `git push origin feature/awesome-feature`
 5. Open a pull request 🚀
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
